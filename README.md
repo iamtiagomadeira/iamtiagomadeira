@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **projects that may help me develop my skills**
+- 👯 I’m looking to collaborate on **projects that may help me develop my skills in AI, Machine Learning and Data Science**
 
 - 📝 I regularly write articles on [AI, Politics and others (still figuring it out)]
 
