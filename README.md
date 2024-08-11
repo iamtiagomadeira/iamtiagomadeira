@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Madeira</h1>
-<h3 align="center">A passionate SAP Technology Consultant from Portugal</h3>
+<h3 align="center">SAP Technology Consultant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtiagomadeira&label=Profile%20views&color=0e75b6&style=flat" alt="iamtiagomadeira" /> </p>
 
