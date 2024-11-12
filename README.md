@@ -24,7 +24,6 @@
  &nbsp;  
 <a href="https://www.credly.com/badges/83b63dab-9273-442d-896f-a3d49d41c2cb/public_url"><img src="https://img.shields.io/badge/Certified-View%20Badge-833AB4?labelColor=0b132b&style=flat&logo=SAP&logoColor=white&link=https://www.credly.com/badges/83b63dab-9273-442d-896f-a3d49d41c2cb/public_url" alt="Certified" height="30" /></a>                                                                                       
 </div>  
-<h1 align="center">Hi 👋, I'm Tiago Madeira</h1>
 <h3 align="center">Technology Consultant, Based in Lisbon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtiagomadeira&label=Profile%20views&color=0e75b6&style=flat" alt="iamtiagomadeira" /> </p>
