@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tiago Madeira</h1>
 
 # 💫 About Me:
-I am a Technology Consultant at SAP. I like building applications.
+I am a Technology Consultant at SAP with a decade of experience in the IT industry. I'm passionate about exploring the world of AI, machine learning, and I enjoy building applications.
 
 ## 🚀 What I'm Up To
 
@@ -33,4 +33,8 @@ Developer Tools:
 
 Libraries/Frameworks: 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
