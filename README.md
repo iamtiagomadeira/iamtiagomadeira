@@ -14,16 +14,17 @@
 </div>
 
 
-## About me 😃
+## About me
 
-I’m passionate about technology and love what I do 💻. I hold a Bachelor’s in Systems Engineering and a Master’s in Computer Science from the Bolivian Catholic University San Pablo 🎓. Currently, I’m working as a software developer, building dynamic and user-friendly web interfaces using React ⚛️.
+I've been working in the IT industry for about a decade. am a Technology Consultant at SAP with a decade of experience in the IT industry. I'm passionate about AI, Machine Learning, and I enjoy building applications.
 
-I’m a team player who communicates well, solves problems, and is always open to feedback 🤝. Eager to learn and grow in the ever-evolving tech industry.
+Currently working as a Technology Consultant at SAP, supporting SAP customers in their transformation towards the Intelligent Enterprise, leveraging the capabilities of the Business Technology Platform (BTP).
 
+Previously, I was a Support Engineer at Microsoft. I studied Data Science at the University Institute of Lisbon (ISCTE).
 
-Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃 
+Check out my [portfolio](https://github.com/iamtiagomadeira)/)
 
-## Skills  ✅
+## Skills
 
 #### I am currently working with these technologies 💪
 
