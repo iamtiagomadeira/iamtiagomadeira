@@ -46,6 +46,11 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50">
 </p>
 
+- AI & ML
+<p>
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/scikit.svg" width="50"> 
+</p>
+
 - Other technologies/tools
 <p>
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
