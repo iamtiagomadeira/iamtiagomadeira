@@ -58,7 +58,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - DevOps
 <p>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/cicd.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/icons#2/cicd.svg" width="50"></a>
 </p>
 
 - Other technologies/tools
