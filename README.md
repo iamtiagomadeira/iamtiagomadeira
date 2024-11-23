@@ -42,6 +42,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 - OS
 <p>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/macos-dark.svg" width="50"></a>
+   <img alt="Linux" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
 </p>
 
 - Data Science
