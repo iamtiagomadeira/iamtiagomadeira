@@ -53,7 +53,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - Other technologies/tools
 <p>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure-dark.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="50"></a>
