@@ -16,11 +16,11 @@
 
 ## About me
 
-I've been working in the IT industry for about a decade. am a Technology Consultant at SAP with a decade of experience in the IT industry. I'm passionate about AI, Machine Learning, and I enjoy building applications.
+I’ve been working in the IT industry for about a decade and am currently a Technology Consultant at SAP. I specialize in supporting SAP customers in their transformation toward becoming Intelligent Enterprises, leveraging the capabilities of the Business Technology Platform (BTP).
 
-Currently working as a Technology Consultant at SAP, supporting SAP customers in their transformation towards the Intelligent Enterprise, leveraging the capabilities of the Business Technology Platform (BTP).
+I’m passionate about AI, Machine Learning, and enjoy building applications.
 
-Previously, I was a Support Engineer at Microsoft. I studied Data Science at the University Institute of Lisbon (ISCTE).
+Previously, I worked as a Support Engineer at Microsoft. I studied Data Science at the University Institute of Lisbon (ISCTE).
 
 Check out my [portfolio](https://github.com/iamtiagomadeira)/)
 
