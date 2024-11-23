@@ -38,6 +38,12 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
 </p>
 
+- OS
+<p>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/macos-dark.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux.svg" width="50"></a>
+</p>
+
 - Data Science
 <p>
    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50">
