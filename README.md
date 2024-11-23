@@ -42,7 +42,6 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 - OS
 <p>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/macos-dark.svg" width="50"></a>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux.svg" width="50"></a>
 </p>
 
 - Data Science
@@ -54,7 +53,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - AI & ML
 <p>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/scikitlearn.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/scikitlearn-dark.svg" width="50"></a>
 </p>
 
 - Other technologies/tools
