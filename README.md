@@ -1,6 +1,6 @@
 <div align="center">
    <h3 align="center">Hi, I am Tiago Madeira! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20" alt="HTML5"/></h3>
-   <p align="center">SAP Technology Consultant | Data Scientist</p>
+   <p align="center">SAP Technology Consultant | Data Science | AI</p>
 </div>
 
 
