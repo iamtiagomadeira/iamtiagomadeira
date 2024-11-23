@@ -30,7 +30,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 <p>
    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50">
    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="python" width="40" height="40"/>
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powershell.svg" width="50">
 </p>
 
 - Databases
