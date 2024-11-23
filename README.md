@@ -35,8 +35,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - Databases
 <p>
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
 </p>
 
 - Data Science
