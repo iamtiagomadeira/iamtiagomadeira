@@ -58,7 +58,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - DevOps
 <p>
-   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="50">
+   <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="50">
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/cicd-light.svg" width="50"></a>
 </p>
 
