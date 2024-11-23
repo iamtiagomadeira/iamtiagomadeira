@@ -53,7 +53,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - Other technologies/tools
 <p>
-   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/azure.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="50"></a>
