@@ -36,7 +36,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 - Databases
 <p>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql-dark.svg" width="50"></a>
 </p>
 
 - OS
