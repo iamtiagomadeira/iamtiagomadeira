@@ -41,7 +41,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - Data Science
 <p>
-   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50"
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50"
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="python" width="40" height="40"/></a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="python" width="40" height="40"/></a>   
 </p>
