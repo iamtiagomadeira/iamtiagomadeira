@@ -47,7 +47,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - AI & ML
 <p>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/icons#2/scikitlearn-dark.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/scikitlearn-dark.svg" width="50"></a>
 </p>
 
 - Other technologies/tools
