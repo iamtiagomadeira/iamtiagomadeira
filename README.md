@@ -53,7 +53,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 
 - AI & ML
 <p>
-   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/scikitlearn-dark.svg" width="50"></a>
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/scikitlearn.svg" width="50"></a>
 </p>
 
 - DevOps
