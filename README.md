@@ -56,6 +56,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/icons/powerbi-dark.svg" width="50"></a>
 </p>
 
 ## My GitHub Stats 📊
