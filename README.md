@@ -55,7 +55,7 @@ Check out my [portfolio](https://github.com/iamtiagomadeira)
 <p>
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="50"></a>
 </p>
 
