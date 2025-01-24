@@ -23,8 +23,6 @@ I’m passionate about AI, Machine Learning, and enjoy building applications.
 
 Previously, I worked as a Support Engineer at Microsoft. I studied Data Science at the University Institute of Lisbon (ISCTE).
 
-Check out my [portfolio](https://github.com/iamtiagomadeira)
-
 ## Skills
 
 - Programming Languages
