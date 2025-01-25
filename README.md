@@ -21,8 +21,6 @@ I’ve been working in the IT industry for about a decade. I'm currently working
 
 I’m passionate about AI, Machine Learning, and enjoy building applications.
 
-Previously, I worked as a Support Engineer at Microsoft. I studied Data Science at the University Institute of Lisbon (ISCTE).
-
 ## Skills
 
 - Programming Languages
