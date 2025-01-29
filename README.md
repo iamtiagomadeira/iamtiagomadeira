@@ -3,9 +3,6 @@
    <p align="center">SAP Technology Consultant</p>
 </div>
 
-
-
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofmadeira/)
@@ -17,7 +14,7 @@
 
 ## About me
 
-I enjoy building stuff with computers. I'm obsessed with AI, and no-code / low-code tools. 
+I enjoy building stuff with computers. I'm obsessed with AI and using it in creative ways to make my ideas come to life.
 
 ## Skills
 
