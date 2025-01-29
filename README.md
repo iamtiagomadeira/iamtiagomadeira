@@ -10,9 +10,6 @@
   
 </div>
 
-
-## About me
-
 I enjoy building stuff with computers. I'm obsessed with AI and using it in creative ways to make my ideas come to life.
 
 ## Skills
