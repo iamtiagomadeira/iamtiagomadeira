@@ -17,9 +17,7 @@
 
 ## About me
 
-I’ve been working in the IT industry for about a decade. I'm currently working as a Technology Consultant at SAP. I specialize in supporting SAP customers in their transformation toward becoming Intelligent Enterprises, leveraging the capabilities of the Business Technology Platform (BTP).
-
-I’m passionate about AI, Machine Learning, and enjoy building applications.
+I enjoy building stuff with computers. I'm obsessed with AI, and no-code / low-code tools. 
 
 ## Skills
 
